@@ -1,0 +1,10 @@
+*.meta
+Library/metadata/
+Library/ShaderCache/8/85a9db2c14be4f53c122804d59f79518.bin
+Library/ShaderCache/
+Assets/Standard Assets/
+Library/
+Tall Wood Building Capstone.sln
+Tall Wood Building Capstone.CSharp.csproj
+Tall Wood Building Capstone.CSharp.Plugins.csproj
+Tall Wood Building Capstone.CSharp.Editor.csproj
